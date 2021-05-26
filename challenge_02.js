@@ -27,3 +27,6 @@ switch (true)
     default: console.log("Ausgabe verweigert!!!!");
     break;
 };
+
+
+//Nachmittagsuntericht
